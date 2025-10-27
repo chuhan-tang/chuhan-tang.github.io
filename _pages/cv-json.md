@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **University of San Francisco** — B.S. Economics, with minors in Mathematics and Legal Studies  
+**University of San Francisco** — B.S. Economics, with minors in Mathematics and Legal Studies  
   *Expected May 2025*  
   **GPA:** 4.0/4.0  
   **Awards:** Michael Lehmann Award, Francis J. Colligan Scholarship, Dean’s List  
@@ -19,17 +19,17 @@ Education
 
 Research Experience (Selected)
 ======
-* **Stanford FSI–Rural Education Action Program** — Research Assistant (with Yue Ma & Scott Rozelle)  
+* **Stanford FSI–Rural Education Action Program** — Research Assistant (for Yue Ma & Scott Rozelle)  
   *September 2025 – Present*  
   - Conduct literature reviews and design interview protocols on local implementation of early childhood development projects. 
   - Analyze qualitative data to inform government-led intervention designs.
 
-* **University of San Francisco** — Research Assistant (with Peter Lorentzen)  
+* **University of San Francisco** — Research Assistant (for Peter Lorentzen)  
   *September 2024 – Present*  
   - Reviewed literature on censorship and protest responses.  
   - Compiled case studies and replicated empirical findings using R.
 
-* **Stanford University** — Research Assistant (with Jennifer Pan & Matthew DeButts)  
+* **Stanford University** — Research Assistant (for Jennifer Pan & Matthew DeButts)  
   *January 2025 – May 2025*  
   - Coded 1,500+ Chinese news articles and analyzed 500,000+ embeddings using Sentence-BERT.  
   - Analyzed large dataset with word embeddings and designed a semi-supervised research pipeline combining machine learning and human validation.

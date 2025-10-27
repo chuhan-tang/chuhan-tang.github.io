@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: false
 ---
 
-{% include base_path %}
-
 ## Education
 
 **University of San Francisco** — B.S. Economics, with minors in Mathematics and Legal Studies  

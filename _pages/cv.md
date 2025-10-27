@@ -50,6 +50,11 @@ Skills
 * **Programming:** R, Python, Stata, Qualtrics, LaTeX  
 * **Languages:** Mandarin Chinese (Native), English (Bilingual Proficiency)
 
+Manuscripts Under Review
+=====
+* **"Care Under Strain: Exploring the Causes and Early Childhood Development Impacts of Caregiver Mental Health Problems"**
+* **"Do Families in Rural Communities in Western, Central and Eastern China Need ECD Parenting Programs?"**
+
 Fellowships
 ======
 * **Frédéric Bastiat Fellowship**, Mercatus Center (2024–2025)  

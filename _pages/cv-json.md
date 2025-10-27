@@ -17,7 +17,7 @@ author_profile: false
 
 ---
 
-## Research Experience
+## Research Experience (Selected)
 
 **Stanford FSI–Rural Education Action Program** — Research Assistant (with Yue Ma & Scott Rozelle)  
 *September 2025 – Present*  
@@ -36,7 +36,7 @@ author_profile: false
 
 ---
 
-## Work Experience
+## Work Experience (Selected)
 
 **Junyan Law Firm** — Intern Legal Assistant  
 *May 2023 – August 2023*  

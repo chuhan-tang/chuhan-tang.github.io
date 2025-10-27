@@ -23,9 +23,9 @@ repository               : "chuhan-tang/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profpic.png"
   name             : "Chuhan (Jerry) Tang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Research Assistant at the Freeman Spogli Institute"
   location         : "Stanford, CA"
   employer         : "Stanford University"
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+ github           : "chuhan-tang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+ # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chuhan-jerry-tang-06a3a8214"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,12 +81,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+ # books:
+ #   title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Care Under Strain: Exploring the Causes and Early Childhood Development Impacts of Caregiver Mental Health Problems'
+    title: 'Do Families in Rural Communities in Western, Central and Eastern China Need ECD Parenting Programs?'
+ # conferences:
+ #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

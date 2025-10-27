@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**University of San Francisco** — B.S. Economics, with minors in Mathematics and Legal Studies  
+  *Expected May 2025*  
+  **GPA:** 4.0/4.0  
+  **Awards:** Michael Lehmann Award, Francis J. Colligan Scholarship, Dean’s List  
+  **Relevant Courses:** Graduate Econometrics, Causal Methods, Panel Data, Data Science for Economics, Field Research Methods, Experimental Economics, Real Analysis, Probability & Statistics, Linear Algebra, Calculus I & II
 
-Work experience
+Research Experience (Selected)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Stanford FSI–Rural Education Action Program** — Research Assistant (for Yue Ma & Scott Rozelle)  
+  *September 2025 – Present*  
+  - Conduct literature reviews and design interview protocols on local implementation of early childhood development projects. 
+  - Analyze qualitative data to inform government-led intervention designs.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **University of San Francisco** — Research Assistant (for Peter Lorentzen)  
+  *September 2024 – Present*  
+  - Reviewed literature on censorship and protest responses.  
+  - Compiled case studies and replicated empirical findings using R.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Stanford University** — Research Assistant (for Jennifer Pan & Matthew DeButts)  
+  *January 2025 – May 2025*  
+  - Coded 1,500+ Chinese news articles and analyzed 500,000+ embeddings using Sentence-BERT.  
+  - Analyzed large dataset with word embeddings and designed a semi-supervised research pipeline combining machine learning and human validation.
+
+Work Experience (Selected)
+======
+* **Junyan Law Firm** — Intern Legal Assistant  
+  *May 2023 – August 2023*  
+  - Supported legal services for a state-owned enterprise and drafted analytical reports on China’s Civil Code.
+
+* **Sundial Law Firm** — Intern Legal Assistant  
+  *June 2021 – July 2021*  
+  - Assisted in creating the firm’s English website and translated legal documents between Chinese and English.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** R, Python, Stata, Qualtrics, LaTeX  
+* **Languages:** Mandarin Chinese (Native), English (Bilingual Proficiency)
 
-Publications
+Fellowships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Frédéric Bastiat Fellowship**, Mercatus Center (2024–2025)  
+* **Asia Bridge Fellowship**, Center for Asia Pacific Studies (2024–2025)  
+* **Global Student Ambassador Program**, Center for Business Studies and Innovation in Asia-Pacific (2023–2025)
+

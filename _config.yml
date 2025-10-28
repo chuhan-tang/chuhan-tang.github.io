@@ -23,7 +23,7 @@ repository               : "chuhan-tang.github.io/chuhan-tang"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profpic.png"
+  avatar           : "profpic.JPG"
   name             : "Chuhan (Jerry) Tang"
   pronouns         : "he/him"  
   bio              : "Research Assistant at the Freeman Spogli Institute"

@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Profile picture](/images/banner.png)
 
 My name is Chuhan (Jerry) Tang, and I am a Research Assistant at the Freeman Spogli Institute for International Studies at Stanford University. I work on topics related to human capital, rural education, and intervention scale-ups.
 

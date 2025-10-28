@@ -1,7 +1,7 @@
 ---
 title: 'Nurturing Early Childhood Development in Rural China'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+date: 2025-10-15
+permalink: /posts/2025/10/ecd-fieldwork/
 tags:
   - Economics
   - Field Research

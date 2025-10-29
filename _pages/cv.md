@@ -13,7 +13,6 @@ redirect_from:
 Education
 ======
 **University of San Francisco** — B.S. Economics, with minors in Mathematics and Legal Studies  
-  *Expected May 2025*  
   **GPA:** 4.0/4.0  
   **Awards:** Michael Lehmann Award, Francis J. Colligan Scholarship, Dean’s List  
   **Relevant Courses:** Graduate Econometrics, Causal Methods, Panel Data, Data Science for Economics, Field Research Methods, Experimental Economics, Real Analysis, Probability & Statistics, Linear Algebra, Calculus I & II
